@@ -17,7 +17,7 @@
 | [音番全总结](https://github.com/ikuchanfans/wiki/blob/main/theme/音番总结.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/音番总结.md) | 欢迎纠错补充 |
 | [音乐剧&舞台剧汇总](https://github.com/ikuchanfans/wiki/blob/main/theme/音乐剧%26舞台剧汇总.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/音乐剧%26舞台剧汇总.md) | 欢迎纠错补充 |
 | [电影&电视剧汇总](https://github.com/ikuchanfans/wiki/blob/main/theme/电影%26电视剧汇总.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/电影%26电视剧汇总.md) | 欢迎纠错补充 |
-| 广播汇总                                                     |                              ✍🏻                              | 施工...      |
+| [广播汇总](https://github.com/ikuchanfans/wiki/blob/main/theme/广播汇总.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/广播汇总.md) | 欢迎纠错补充 |
 | ...                                                          |                        💡 欢迎提供灵感                        |              |
 
 
