@@ -27,6 +27,7 @@
 
 | 年                                                           |                             状态                             | 备注                                                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| [2023](https://github.com/ikuchanfans/wiki/blob/main/year/2023.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/year/2023.md) | [🔥 2023年每天随时更新](https://github.com/ikuchanfans/wiki/blob/main/year/2023.md) |
 | [2022](https://github.com/ikuchanfans/wiki/blob/main/year/2022.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/year/2022.md) | [🔥 2022年每天随时更新](https://github.com/ikuchanfans/wiki/blob/main/year/2022.md) |
 | 2021                                                         |                             暂无                             | 2021以前龟速更新欢迎大佬主动维护更新                         |
 
