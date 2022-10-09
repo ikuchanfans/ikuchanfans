@@ -7,17 +7,19 @@
 - 🚧 部分**已更新**，努力**工事中** 🚧 
 - 🥺 欢迎各位大佬更新补充提issue 🥺
 
+## wiki首页
 
+🚀 点击网页版wiki  https://ikuchanfans.github.io/wiki/
 
 ## 按主题
 
 
 | 主题                                                         |                             状态                             | 备注         |
 | ------------------------------------------------------------ | :----------------------------------------------------------: | ------------ |
-| [音番全总结](https://github.com/ikuchanfans/wiki/blob/main/theme/音番总结.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/音番总结.md) | 欢迎纠错补充 |
-| [音乐剧&舞台剧汇总](https://github.com/ikuchanfans/wiki/blob/main/theme/音乐剧%26舞台剧汇总.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/音乐剧%26舞台剧汇总.md) | 欢迎纠错补充 |
-| [电影&电视剧汇总](https://github.com/ikuchanfans/wiki/blob/main/theme/电影%26电视剧汇总.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/电影%26电视剧汇总.md) | 欢迎纠错补充 |
-| [广播汇总](https://github.com/ikuchanfans/wiki/blob/main/theme/广播汇总.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/广播汇总.md) | 欢迎纠错补充 |
+| [音番全总结](https://ikuchanfans.github.io/wiki/themes/musicshow) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/音番总结.md) | 欢迎纠错补充 |
+| [音乐剧&舞台剧汇总](https://ikuchanfans.github.io/wiki/themes/musical) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/音乐剧%26舞台剧汇总.md) | 欢迎纠错补充 |
+| [电影&电视剧汇总](https://ikuchanfans.github.io/wiki/themes/tvmovie) | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/电影%26电视剧汇总.md) | 欢迎纠错补充 |
+| [广播汇总](https://ikuchanfans.github.io/wiki/themes/radio)  | [✅](https://github.com/ikuchanfans/wiki/blob/main/theme/广播汇总.md) | 欢迎纠错补充 |
 | ...                                                          |                        💡 欢迎提供灵感                        |              |
 
 
@@ -25,11 +27,11 @@
 ## 按年份
 
 
-| 年                                                           |                             状态                             | 备注                                                         |
-| ------------------------------------------------------------ | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| [2023](https://github.com/ikuchanfans/wiki/blob/main/year/2023.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/year/2023.md) | [🔥 2023年每天随时更新](https://github.com/ikuchanfans/wiki/blob/main/year/2023.md) |
-| [2022](https://github.com/ikuchanfans/wiki/blob/main/year/2022.md) | [✅](https://github.com/ikuchanfans/wiki/blob/main/year/2022.md) | [🔥 2022年每天随时更新](https://github.com/ikuchanfans/wiki/blob/main/year/2022.md) |
-| 2021                                                         |                             暂无                             | 2021以前龟速更新欢迎大佬主动维护更新                         |
+| 年                                                    |                             状态                             | 备注                                                         |
+| ----------------------------------------------------- | :----------------------------------------------------------: | ------------------------------------------------------------ |
+| [2023](https://ikuchanfans.github.io/wiki/years/2023) | [✅](https://github.com/ikuchanfans/wiki/blob/main/year/2023.md) | [🔥 2023年每天随时更新](https://github.com/ikuchanfans/wiki/blob/main/year/2023.md) |
+| [2022](https://ikuchanfans.github.io/wiki/years/2022) | [✅](https://github.com/ikuchanfans/wiki/blob/main/year/2022.md) | [🔥 2022年每天随时更新](https://github.com/ikuchanfans/wiki/blob/main/year/2022.md) |
+| 2021                                                  |                             暂无                             | 2021以前龟速更新欢迎大佬主动维护更新                         |
 
 
 
